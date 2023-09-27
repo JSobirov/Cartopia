@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+VPiunCTSwr7AnmpRo8K564vOv2JZaxs55a1+seCVjaCx1vctegkO1GXlqk+utZ7/8fAW0HwYDrfneBjTFuPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Service\\Cartopia.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jasur\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jasur\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jasur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

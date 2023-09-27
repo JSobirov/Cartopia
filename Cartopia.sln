@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartopia", "Cartopia\Cartopia.csproj", "{82E17B3A-7FD0-49BC-B8CE-5716BC3B6CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartopia.DAL", "Cartopia.DAL\Cartopia.DAL.csproj", "{46B44DBF-9B0E-4446-886A-21A047EE9609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartopia.Domain", "Cartopia.Domain\Cartopia.Domain.csproj", "{2EA36B02-FDAE-4BB2-8CD7-57A919DE598D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartopia.Service", "Cartopia.Service\Cartopia.Service.csproj", "{3696E0F6-AF43-4382-8A78-9F7EFAAE43F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E17B3A-7FD0-49BC-B8CE-5716BC3B6CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E17B3A-7FD0-49BC-B8CE-5716BC3B6CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E17B3A-7FD0-49BC-B8CE-5716BC3B6CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E17B3A-7FD0-49BC-B8CE-5716BC3B6CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B44DBF-9B0E-4446-886A-21A047EE9609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B44DBF-9B0E-4446-886A-21A047EE9609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B44DBF-9B0E-4446-886A-21A047EE9609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B44DBF-9B0E-4446-886A-21A047EE9609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA36B02-FDAE-4BB2-8CD7-57A919DE598D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA36B02-FDAE-4BB2-8CD7-57A919DE598D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA36B02-FDAE-4BB2-8CD7-57A919DE598D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA36B02-FDAE-4BB2-8CD7-57A919DE598D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3696E0F6-AF43-4382-8A78-9F7EFAAE43F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3696E0F6-AF43-4382-8A78-9F7EFAAE43F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3696E0F6-AF43-4382-8A78-9F7EFAAE43F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3696E0F6-AF43-4382-8A78-9F7EFAAE43F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4006807-0A15-48B8-A393-1B427B58DA22}
+	EndGlobalSection
+EndGlobal
