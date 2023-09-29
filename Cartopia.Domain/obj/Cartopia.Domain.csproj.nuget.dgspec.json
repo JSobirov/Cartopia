@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj": {}
+    "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj": {
+    "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj",
         "projectName": "Cartopia.Domain",
-        "projectPath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj",
+        "projectPath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia.Domain\\Cartopia.Domain.csproj",
         "packagesPath": "C:\\Users\\jasur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

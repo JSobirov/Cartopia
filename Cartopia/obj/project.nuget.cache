@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T03rh16ml7m7oSrWcbFcFoEkAbqc8SsqKfP31DE9inKwVIJ8ayOucGpEqYlI09Nkjp9zEEr+9OzABCeXSiWsHA==",
+  "dgSpecHash": "UFV8le3srRBSbyz2wopIaxImM5cIEvAPQoDs9rq//EGtCN1HOoSqYRtwS2OCVL/whRfODLf+VwnvxVOp1mEk0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Cartopia\\Cartopia\\Cartopia.csproj",
+  "projectFilePath": "C:\\Users\\jasur\\OneDrive\\Рабочий стол\\Projects\\Cartopia\\Cartopia\\Cartopia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jasur\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jasur\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
