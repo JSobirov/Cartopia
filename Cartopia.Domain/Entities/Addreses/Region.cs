@@ -1,6 +1,6 @@
 ﻿using Cartopia.Domain.Commons;
 
-namespace Cartopia.Domain.Entities;
+namespace Cartopia.Domain.Entities.Addreses;
 
 public class Region : Auditable
 {
