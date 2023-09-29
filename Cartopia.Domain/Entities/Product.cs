@@ -1,6 +1,8 @@
-﻿namespace Cartopia.Domain.Entities;
+﻿using Cartopia.Domain.Commons;
 
-public class Product
+namespace Cartopia.Domain.Entities;
+
+public class Product : Auditable
 {
     public string Name { get; set; }
     public string Description { get; set; }

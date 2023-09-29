@@ -1,6 +1,8 @@
-﻿namespace Cartopia.Domain.Entities;
+﻿using Cartopia.Domain.Commons;
 
-public class Client
+namespace Cartopia.Domain.Entities;
+
+public class Client : Auditable
 {
     public string Fullname { get; set; }
     public string Phone { get; set; }

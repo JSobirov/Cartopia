@@ -1,6 +1,8 @@
-﻿namespace Cartopia.Domain.Entities;
+﻿using Cartopia.Domain.Commons;
 
-public class Basket
+namespace Cartopia.Domain.Entities;
+
+public class Basket : Auditable
 {
     public long ClientId { get; set; }
     public Client Client { get; set; }

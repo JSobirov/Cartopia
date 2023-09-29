@@ -1,8 +1,9 @@
-﻿using Cartopia.Domain.Enums;
+﻿using Cartopia.Domain.Commons;
+using Cartopia.Domain.Enums;
 
 namespace Cartopia.Domain.Entities;
 
-public class Payment
+public class Payment : Auditable
 {
     public PaymentType Type { get; set; }
 

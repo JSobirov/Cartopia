@@ -1,6 +1,8 @@
-﻿namespace Cartopia.Domain.Entities;
+﻿using Cartopia.Domain.Commons;
 
-public class Credit
+namespace Cartopia.Domain.Entities;
+ 
+public class Credit : Auditable
 {
     public long ClientId { get; set; }
     public Client Client { get; set; }
