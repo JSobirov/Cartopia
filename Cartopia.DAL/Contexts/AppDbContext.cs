@@ -1,4 +1,5 @@
 ﻿using Cartopia.Domain.Entities;
+using Cartopia.Domain.Entities.Addreses;
 using Microsoft.EntityFrameworkCore;
 
 namespace Cartopia.DAL.Contexts;
@@ -14,4 +15,6 @@ public class AppDbContext : DbContext
     public DbSet<Payment> Payments { get; set; }
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
+    public DbSet<Region> Regions { get; set; }
+    public DbSet<District> Districts { get; set; }
 }
