@@ -1,5 +1,5 @@
-﻿using Cartopia.Domain.Commons;
-using Cartopia.Domain.Enums;
+﻿using Cartopia.Domain.Enums;
+using Cartopia.Domain.Commons;
 
 namespace Cartopia.Domain.Entities;
 

@@ -2,7 +2,8 @@
 
 public enum PaymentType
 {
-    Cash,
-    BankingAccount,
-    Credit
+    NaqtPul,
+    HisobRaqam,
+    Karta,
+    Nasiya
 }
