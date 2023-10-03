@@ -17,4 +17,6 @@ public class AppDbContext : DbContext
     public DbSet<Category> Categories { get; set; }
     public DbSet<Region> Regions { get; set; }
     public DbSet<District> Districts { get; set; }
+    public DbSet<User> Users { get; set; }
+    public DbSet<Attachment> Attachments { get; set; }
 }
